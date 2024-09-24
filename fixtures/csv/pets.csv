@@ -1,0 +1,5 @@
+pet_id,category_id,category_name,pet_name,tags,status
+450107702,2,cat,killua,1-vacinado;2-vermigufado,available
+450107703,3,fish,nemo,3-premiado,available 
+450117704,1,dog,Oggi,2-vermifugado,available
+450117705,4,bird,Loribaldo,3-raro,available

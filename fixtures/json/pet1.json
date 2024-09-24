@@ -1,0 +1,18 @@
+{
+    "id": 450107701,
+    "category": {
+      "id": 1,
+      "name": "cat"
+    },
+    "name": "Killua",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinado"
+      }
+    ],
+    "status": "available"
+  }
