@@ -3,3 +3,4 @@ pet_id,category_id,category_name,pet_name,tags,status
 450107703,3,fish,nemo,3-premiado,available 
 450117704,1,dog,Oggi,2-vermifugado,available
 450117705,4,bird,Loribaldo,3-raro,available
+450117706,2,cat,Sombrinha,1-raro;2-vermifugado,available
